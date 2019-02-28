@@ -5,3 +5,5 @@ ShanEnt is a sequence analysis framework for the integrative analysis of amino a
 ShanEnt is being developed by Garrett Ginell and Alex Holehouse at Washington University in St. Louis.
 
 Please check back regularly for updates!
+
+For more information contact Garrett at ...
