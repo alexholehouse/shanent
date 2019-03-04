@@ -1,7 +1,7 @@
 # ShanEnt
-### ShanEnt is a Python toolkit for integrative, whole-proteome statistical analysis of sequence-features.
+### ShanEnt is a Python toolkit for integrative, whole-proteome statistical analysis of amino acid sequence-features.
 
-ShanEnt was developed in the context of working with intrinsically disordered proteins and protein regions, but in principle could be used for any amino acid sequence.
+ShanEnt was developed in the context of working with intrinsically disordered proteins and protein regions, but in principle could be used for any amino acid sequence. It combines novel analysis approaches with the integration of a range of extant databases to provide a general framework for exploring sequence features in disordered proteins.
 
 ShanEnt is being developed by Garrett Ginell and Alex Holehouse at Washington University in St. Louis. 
 
